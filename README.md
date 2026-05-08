@@ -54,12 +54,13 @@ Perfil híbrido que combina la solidez de la ingeniería con metodologías moder
 ---
 ---
 
-## 📊 Estadísticas de Desarrollo
 
 
-![Estadísticas de Mochimidev](https://github-readme-stats.vercel.app/api?username=mochimidev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=mochimidev&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mochimidev&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mochimidev&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ---
 
