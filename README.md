@@ -52,14 +52,17 @@ Perfil híbrido que combina la solidez de la ingeniería con metodologías moder
 </p>
 
 ---
+---
 
-## 📊 Estadísticas
+## 📊 Estadísticas de Desarrollo
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mochimidev&show_icons=true&theme=dracula&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mochimidev&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Estadísticas de Mochimidev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mochimidev&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/charlotterodriguez001/" target="_blank">
-    <img src="https://img.shields.io/badge/Conectemos%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mochimidev&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </p>
+
+---
