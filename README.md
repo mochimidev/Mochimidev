@@ -52,8 +52,6 @@ Perfil híbrido que combina la solidez de la ingeniería con metodologías moder
 </p>
 
 ---
----
-
 
 
 <p align="center">
