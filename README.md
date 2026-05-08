@@ -7,8 +7,8 @@
 
 ---
 
-## 🔍 Proyecto Destacado: Escuela Libre Rural
-Lidero el desarrollo de la identidad digital y la infraestructura web para la **Escuela Libre Rural**, un proyecto orientado a conectar la educación alternativa con comunidades en entornos rurales.
+## 🔍 Proyecto Destacado: Escuela Libre Infancia Invaluable 
+Lidero el desarrollo de la identidad digital y la infraestructura web para la **Escuela Libre Infancia Invaluable**, un proyecto orientado a conectar la educación alternativa con comunidades en entornos rurales.
 
 - 🖥️ **Desarrollo:** Landing Page responsiva con arquitectura semántica y optimización de carga.
 - 🎨 **Diseño:** UX/UI centrado en accesibilidad (WCAG) y calidez pedagógica.
