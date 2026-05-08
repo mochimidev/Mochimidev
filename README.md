@@ -36,8 +36,6 @@ Como apasionada de la estética **Monster High** y el diseño gótico-chic, inte
 
 ## 📊 Impacto & Formación
 - **Finalista Go Innova 2024:** Innovación con propósito social.
-- **Startup LA (INACAP/CORFO):** Desarrollando tecnología para la resiliencia territorial.
-
 ---
 
 ## 🛠️ Tecnologías Principales
