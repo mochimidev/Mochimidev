@@ -66,5 +66,5 @@ Mi objetivo es generar impacto social y organizacional mediante el uso ético y 
 
 <h2>📊 GitHub Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whispybaby&show_icons=true&locale=es&layout=compact" alt="whispybaby - Lenguajes más usados" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=whispybaby&show_icons=true&locale=es" alt="whispybaby - Estadísticas de GitHub" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whispybaby&show_icons=true&locale=es&layout=compact" alt="Mochimidev - Lenguajes más usados" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mochimidev&show_icons=true&locale=es" alt="whispybaby - Estadísticas de GitHub" /></p>
