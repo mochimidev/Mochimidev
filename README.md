@@ -14,7 +14,7 @@ Actualmente estoy liderando el desarrollo de la identidad digital para la **Escu
 - 🎨 **Diseño:** UX/UI centrado en la accesibilidad y la calidez pedagógica.
 - 📈 **Estrategia:** Plan de contenido 360° para visibilizar el aprendizaje basado en proyectos y naturaleza.
 
-> [**Ver repositorio del proyecto →**](https://github.com/Mochimidev/escuela-libre-rural](https://github.com/mochimidev/escuelalibre)
+> [**Ver repositorio del proyecto →**](https://github.com/mochimidev/escuelalibre)
 
 ---
 
