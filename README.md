@@ -51,7 +51,7 @@ Perfil híbrido que combina la solidez de la ingeniería con metodologías moder
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
----
+
 
 
 <p align="center">
