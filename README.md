@@ -1,4 +1,4 @@
-<h1 align="center">🌿 Mochimidev | Ingeniera en Informática</h1>
+<h1 align="center">🌿 Charlotte Rodriguez | Ingeniera en Informática</h1>
 
 <p align="center">
   <strong>Ingeniera en Computer Science | Especialista en Gestión Ágil e Inclusión Digital</strong><br>
