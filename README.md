@@ -56,10 +56,12 @@ Perfil híbrido que combina la solidez de la ingeniería con metodologías moder
 
 ## 📊 Estadísticas de Desarrollo
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mochimidev&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Estadísticas de Mochimidev" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mochimidev&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Lenguajes más usados" />
-</p>
+
+![Estadísticas de Mochimidev](https://github-readme-stats.vercel.app/api?username=Mochimidev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Mochimidev&layout=compact&theme=tokyonight&hide_border=true)
+
+---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mochimidev&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
