@@ -1,41 +1,42 @@
-<h1 align="center">🌿 Mochimidev | Tech for Social Impact 🦇</h1>
+<h1 align="center">🌿 Mochimidev | Ingeniera en Informática</h1>
 
 <p align="center">
-  <strong>Ingeniera en Informática & UI/UX Designer</strong><br>
-  <em>Digitalizando la educación rural y la soberanía tecnológica en la Araucania.</em>
+  <strong>Ingeniera en Computer Science | Especialista en Gestión Ágil e Inclusión Digital</strong><br>
+  <em>Digitalizando la educación rural y la soberanía tecnológica en la Araucanía.</em>
 </p>
 
 ---
 
 ## 🔍 Proyecto Destacado: Escuela Libre Rural
-Actualmente estoy liderando el desarrollo de la identidad digital para la **Escuela Libre Rural**, un proyecto que busca conectar la educación alternativa con comunidades aisladas.
+Lidero el desarrollo de la identidad digital y la infraestructura web para la **Escuela Libre Rural**, un proyecto orientado a conectar la educación alternativa con comunidades en entornos rurales.
 
-- 🖥️ **Desarrollo:** Landing Page responsiva con arquitectura semántica.
-- 🎨 **Diseño:** UX/UI centrado en la accesibilidad y la calidez pedagógica.
-- 📈 **Estrategia:** Plan de contenido 360° para visibilizar el aprendizaje basado en proyectos y naturaleza.
+- 🖥️ **Desarrollo:** Landing Page responsiva con arquitectura semántica y optimización de carga.
+- 🎨 **Diseño:** UX/UI centrado en accesibilidad (WCAG) y calidez pedagógica.
+- 📈 **Estrategia:** Plan de contenido 360° para visibilizar el aprendizaje basado en proyectos.
 
 > [**Ver repositorio del proyecto →**](https://github.com/mochimidev/escuelalibre)
 
 ---
 
-## 🛠️ Mi Enfoque Técnico
-Mi trabajo se centra en demostrar que la tecnología de alto nivel (fabulosa y funcional) puede transformar entornos rurales y educativos.
+## 🎓 Formación y Especialización
+Perfil híbrido que combina la solidez de la ingeniería con metodologías modernas de gestión e inclusión.
 
-- **Frontend & UX:** Creación de interfaces intuitivas usando HTML5, CSS3 y principios de diseño en Figma/Adobe XD.
-- **Arquitectura:** Soluciones escalables y de bajo costo para proyectos con impacto social.
-- **Mentoria:** Experiencia transfiriendo tecnología a organizaciones como *María Ayuda* y *Fundación Portas*.
-
----
-
-## 🎨 Creative Stack
-Como apasionada de la estética **Monster High** y el diseño gótico-chic, integro la teoría del color y la composición en cada línea de código:
-- **Herramientas:** Adobe XD, Illustrator, Photoshop.
-- **Filosofía:** "Software con alma, estética *cute-tech* y funcionalidad robusta."
+* **Ingeniería en Informática** | INACAP (2021 - 2024)
+    * *Distinción por desempeño académico y profesional destacado.*
+    * Especialización en Arquitectura Cloud, Desarrollo Full Stack y Soporte Computacional.
+* **Diplomados Destacados (2025):**
+    * **Inclusión y Diversidad:** Estrategias para una educación transformadora (ProFuturo).
+    * **Gestión Ágil de Proyectos:** Implementación de metodologías ágiles (UPLA).
+    * **Emprendimiento y Gestión Digital:** Innovación en modelos de negocio (IPCHILE).
+    * **Marketing Digital & Diseño Web:** Estrategia y programación (AIEP).
 
 ---
 
-## 📊 Impacto & Formación
-- **Finalista Go Innova 2024:** Innovación con propósito social.
+## 🛠️ Enfoque Técnico
+- **Frontend & UX:** Interfaces intuitivas desarrolladas en HTML5, CSS3 y JavaScript, con prototipado avanzado en Figma y Adobe XD.
+- **Infraestructura:** Soluciones escalables en la nube (Cloud Architecture) y bases de datos seguras.
+- **Impacto Social:** Finalista en **Go Innova 2024** y mentora en organizaciones como *María Ayuda* y *Fundación Portas*.
+
 ---
 
 ## 🛠️ Tecnologías Principales
@@ -46,16 +47,18 @@ Como apasionada de la estética **Monster High** y el diseño gótico-chic, inte
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
 ---
 
+## 📊 Estadísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mochimidev&show_icons=true&theme=dracula&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/charlotterodriguez001/" target="_blank">
     <img src="https://img.shields.io/badge/Conectemos%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
