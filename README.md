@@ -21,15 +21,16 @@ Lidero el desarrollo de la identidad digital y la infraestructura web para la **
 ## 🎓 Formación y Especialización
 Perfil híbrido que combina la solidez de la ingeniería con metodologías modernas de gestión e inclusión.
 
-* **Ingeniería en Informática** |  (2021 - 2024)
+* **Ingeniería en Informática** | **(2021 - 2024)**
     * *Distinción por desempeño académico y profesional destacado.*
     * Especialización en Arquitectura Cloud, Desarrollo Full Stack y Soporte Computacional.
-* **Diplomados Destacados (2025):**
-    * **Inclusión y Diversidad:** Estrategias para una educación transformadora (ProFuturo).
-    * **Gestión Ágil de Proyectos:** Implementación de metodologías ágiles (UPLA).
-    * **Emprendimiento y Gestión Digital:** Innovación en modelos de negocio (IPCHILE).
-    * **Marketing Digital & Diseño Web:** Estrategia y programación (AIEP).
-
+* **Diplomados de Especialización (Ciclo 2024-2025):**
+    1. **Inclusión y Diversidad:** Estrategias de gestión para una educación transformadora (ProFuturo).
+    2. **Diseño y Gestión Ágil de Proyectos:** Optimización de procesos en entornos digitales (UPLA).
+    3. **Habilidades para el Desarrollo Profesional:** Liderazgo y gestión estratégica (UPLA).
+    4. **Emprendimiento y Gestión Digital:** Modelos de negocio e innovación tecnológica (IPCHILE).
+    5. **Marketing Digital y Gestión Estratégica:** Posicionamiento en el ecosistema digital (AIEP).
+    6. **Diseño y Programación Web:** Creación de plataformas y recursos en línea (AIEP).
 ---
 
 ## 🛠️ Enfoque Técnico
