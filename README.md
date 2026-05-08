@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Ingeniera en Informática & UI/UX Designer</strong><br>
-  <em>Digitalizando la educación rural y la soberanía tecnológica en el Biobío.</em>
+  <em>Digitalizando la educación rural y la soberanía tecnológica en la Araucania.</em>
 </p>
 
 ---
