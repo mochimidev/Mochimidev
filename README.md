@@ -47,41 +47,6 @@ Plataforma web para la administración y análisis operativo de un establecimien
 
 ---
 
-## 📊 BioTrace
-
-Proyecto orientado al monitoreo y visualización de información logística mediante dashboards interactivos.
-
-### Funcionalidades
-
-* Tracking de operaciones.
-* Monitoreo de estados.
-* Visualización de indicadores.
-* Integración y consumo de APIs.
-* Dashboard operacional.
-
-### Tecnologías
-
-`JavaScript` `HTML5` `CSS3` `APIs`
-
----
-
-## 🍡 Mogu Mogu
-
-Aplicación web enfocada en simulación financiera, costos y rentabilidad.
-
-### Funcionalidades
-
-* Simulación de escenarios.
-* Análisis de rentabilidad.
-* Gestión de costos.
-* Indicadores financieros.
-* Dashboard analítico.
-
-### Tecnologías
-
-`JavaScript` `HTML5` `CSS3`
-
----
 
 ## 🎓 Plataforma de Capacitación Digital
 
