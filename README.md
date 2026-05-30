@@ -1,44 +1,203 @@
-<h1 align="center">🌿 Charlotte Rodriguez | Ingeniera en Informática</h1>
+# 🌿 Charlotte Rodriguez Muñoz
 
 <p align="center">
-  <strong>Ingeniera en Computer Science | Especialista en Gestión Ágil e Inclusión Digital</strong><br>
-  <em>Digitalizando la educación rural y la soberanía tecnológica en la Araucanía.</em>
+  <strong>Ingeniera en Informática | Full Stack Developer | Data & BI Enthusiast</strong><br>
+  <em>Desarrollo plataformas web, dashboards, automatizaciones y soluciones digitales orientadas a mejorar la experiencia de usuario y la toma de decisiones.</em>
 </p>
 
 ---
 
-## 🔍 Proyecto Destacado: Escuela Libre Infancia Invaluable 
-Lidero el desarrollo de la identidad digital y la infraestructura web para la **Escuela Libre Infancia Invaluable**, un proyecto orientado a conectar la educación alternativa con comunidades en entornos rurales.
+## 👩‍💻 Sobre mí
 
-- 🖥️ **Desarrollo:** Landing Page responsiva con arquitectura semántica y optimización de carga.
-- 🎨 **Diseño:** UX/UI centrado en accesibilidad (WCAG) y calidez pedagógica.
-- 📈 **Estrategia:** Plan de contenido 360° para visibilizar el aprendizaje basado en proyectos.
+Soy Ingeniera en Informática con experiencia en desarrollo web, análisis de datos, visualización de información y soluciones digitales para organizaciones educativas, municipales y pequeñas empresas.
 
-> [**Ver repositorio del proyecto →**](https://github.com/mochimidev/escuelalibre)
+Me interesa especialmente la creación de plataformas que combinen:
+
+* 💻 Desarrollo Full Stack
+* 📊 Business Intelligence
+* 🤖 Automatización e IA aplicada
+* ☁️ Cloud Computing
+* 🎨 UX/UI Design
+* 📈 Análisis y visualización de datos
+
+Actualmente desarrollo proyectos orientados a gestión empresarial, monitoreo de información y plataformas digitales con foco en usabilidad y escalabilidad.
+
+---
+
+# 🚀 Proyectos Destacados
+
+## 🏨 Hostal Millaray
+
+Plataforma web para la administración y análisis operativo de un establecimiento turístico.
+
+### Funcionalidades
+
+* Gestión de reservas y huéspedes.
+* Administración de cabañas.
+* Dashboard ejecutivo.
+* Business Intelligence.
+* KPIs operativos.
+* Seguimiento de ocupación.
+* Visualización de ingresos y demanda.
+* Interfaz responsive.
+
+### Tecnologías
+
+`JavaScript` `Firebase` `Chart.js` `HTML5` `CSS3`
 
 ---
 
-## 🎓 Formación y Especialización
-Perfil híbrido que combina la solidez de la ingeniería con metodologías modernas de gestión e inclusión.
+## 📊 BioTrace
 
-* **Ingeniería en Informática** | **(2021 - 2024)**
-    * *Distinción por desempeño académico y profesional destacado.*
-    * Especialización en Arquitectura Cloud, Desarrollo Full Stack y Soporte Computacional.
-* **Diplomados de Especialización (Ciclo 2024-2025):**
-    1. **Inclusión y Diversidad:** Estrategias de gestión para una educación transformadora (ProFuturo).
-    2. **Diseño y Gestión Ágil de Proyectos:** Optimización de procesos en entornos digitales (UPLA).
-    3. **Habilidades para el Desarrollo Profesional:** Liderazgo y gestión estratégica (UPLA).
-    4. **Emprendimiento y Gestión Digital:** Modelos de negocio e innovación tecnológica (IPCHILE).
-    5. **Marketing Digital y Gestión Estratégica:** Posicionamiento en el ecosistema digital (AIEP).
-    6. **Diseño y Programación Web:** Creación de plataformas y recursos en línea (AIEP).
----
+Proyecto orientado al monitoreo y visualización de información logística mediante dashboards interactivos.
 
-## 🛠️ Enfoque Técnico
-- **Frontend & UX:** Interfaces intuitivas desarrolladas en HTML5, CSS3 y JavaScript, con prototipado avanzado en Figma y Adobe XD.
-- **Infraestructura:** Soluciones escalables en la nube (Cloud Architecture) y bases de datos seguras.
-- **Impacto Social:** Finalista en **Go Innova 2024** y mentora en organizaciones como *María Ayuda* y *Fundación Portas*.
+### Funcionalidades
+
+* Tracking de operaciones.
+* Monitoreo de estados.
+* Visualización de indicadores.
+* Integración y consumo de APIs.
+* Dashboard operacional.
+
+### Tecnologías
+
+`JavaScript` `HTML5` `CSS3` `APIs`
 
 ---
+
+## 🍡 Mogu Mogu
+
+Aplicación web enfocada en simulación financiera, costos y rentabilidad.
+
+### Funcionalidades
+
+* Simulación de escenarios.
+* Análisis de rentabilidad.
+* Gestión de costos.
+* Indicadores financieros.
+* Dashboard analítico.
+
+### Tecnologías
+
+`JavaScript` `HTML5` `CSS3`
+
+---
+
+## 🎓 Plataforma de Capacitación Digital
+
+Sistema web para gestión y distribución de cursos online.
+
+### Funcionalidades
+
+* Biblioteca de cursos.
+* Gestión de usuarios.
+* Panel administrativo.
+* Seguimiento de aprendizaje.
+* Evaluaciones y cuestionarios.
+
+### Tecnologías
+
+`JavaScript` `Firebase` `HTML5` `CSS3` `Vite`
+
+---
+
+## 🌱 Escuela Libre Infancia Invaluable
+
+Desarrollo de plataforma web institucional para organización educativa.
+
+### Funcionalidades
+
+* Landing page responsive.
+* Optimización UX/UI.
+* Gestión de contenidos.
+* Integración con Firebase.
+* Accesibilidad y rendimiento.
+
+### Tecnologías
+
+`JavaScript` `HTML5` `CSS3` `Firebase`
+
+---
+
+## 😀 Windows Kaomoji Extension
+
+Herramienta desarrollada para facilitar el uso de kaomojis en Windows.
+
+### Tecnologías
+
+`C#` `.NET`
+
+---
+
+# 🛠️ Tecnologías
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Design
+
+### Backend & Cloud
+
+* Firebase
+* Hosting
+* Authentication
+* Firestore
+
+### Datos & BI
+
+* Excel
+* Power BI
+* KNIME
+* R Studio
+* Business Intelligence
+
+### Diseño
+
+* Figma
+* UX/UI Design
+
+### Otras herramientas
+
+* Git
+* GitHub
+* Microsoft 365
+* SharePoint Online
+* Azure AI
+* AWS (fundamentos)
+
+---
+
+# 🎓 Formación
+
+**Ingeniería en Informática**
+
+Complementada con formación en:
+
+* Gestión Ágil de Proyectos
+* Desarrollo Web
+* Marketing Digital
+* Emprendimiento e Innovación
+* Inclusión y Diversidad
+* Habilidades para el Desarrollo Profesional
+
+---
+
+# 📌 Actualmente
+
+* 🏨 Mejorando Hostal Millaray
+* 📊 Explorando Business Intelligence
+* 🤖 Aprendiendo IA aplicada y automatización
+* 💻 Construyendo soluciones Full Stack
+* 🚀 Buscando oportunidades remotas de desarrollo
+
+---
+
+<p align="center">
+  <i>"La tecnología genera más impacto cuando resuelve problemas reales."</i>
+</p>
+
 
 ## 🛠️ Tecnologías Principales
 
