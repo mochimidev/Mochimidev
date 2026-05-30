@@ -59,10 +59,10 @@ Perfil híbrido que combina desarrollo tecnológico, análisis de datos y gesti�
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mochimidev&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mochimidev&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mochimidev&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mochimidev&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mochimidev&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mochimidev&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </p>
