@@ -1,6 +1,5 @@
-![Uploading ChatGPT Image 9 jun 2026, 16_09_44.png…]()
-![Banner](<img width="2166" height="726" alt="ChatGPT Image 9 jun 2026, 16_09_44" src="https://github.com/user-attachments/assets/4879c25c-346c-4b42-811e-a4e2f16640e1" />
-)
+![Banner]
+
 
 # 👋 Hola, soy Charlotte
 
