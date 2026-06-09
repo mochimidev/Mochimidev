@@ -1,68 +1,56 @@
+![Banner](./github-banner-flutter-ia.png)
+
 # 👋 Hola, soy Charlotte
 
-## 📱 Desarrolladora Mobile | Flutter, Dart, iOS & Android
-
-### 🎯 Especialización
-- **Desarrollo Móvil:** Flutter, Dart
-- **Plataformas:** iOS, Android, Web
-- **Herramientas:** FlutterFlow, Firebase, REST APIs
-- **Diseño:** UI/UX, Material Design, Figma
+🚀 **Desarrolladora especializada en Flutter + IA Agents**
 
 ---
 
-## 📱 Proyectos Móviles Destacados
+## 🔧 Stack Técnico
+
+**Mobile Development:**
+- Flutter / Dart
+- Android Studio (Java)
+- FlutterFlow (no-code/low-code)
+- Firebase
+
+**IA & Automatización:**
+- Oracle IA Agents (en formación)
+- Codex (generative code)
+- Integración de APIs con IA
+
+---
+
+## 📱 Proyectos Destacados
 
 ### 🎓 EdumetricaV2
-**Aplicación educativa de análisis interactivo**
-- 📱 **Tipo:** Aplicación móvil multiplataforma
-- 🛠️ **Tech:** Dart, Flutter, Firebase
-- ✨ **Features:** Cálculo de métricas, gráficos interactivos, base de datos en tiempo real
-- 📊 Interfaz intuitiva para estudiantes y docentes
+- **Tech:** Flutter, Dart, Firebase Firestore
+👉 [Ver código](https://github.com/mochimidev/EdumetricaV2)
 
-### 🎮 chile_fantastico
-**App gamificada de aprendizaje**
-- 📱 **Tipo:** Aplicación educativa iOS/Android
-- 🛠️ **Tech:** Dart, Flutter
-- ✨ **Features:** Gamificación, progresión de contenido, interfaz amigable
-- 🎯 Enfoque en retención de usuarios
+### 📖 chile_fantastico
+- **Tech:** Flutter, Firebase, Analytics
+👉 [Ver código](https://github.com/mochimidev/chile_fantastico)
 
-### 🔮 Tarot
-**Aplicación interactiva de tarot**
-- 📱 **Tipo:** App móvil
-- 🛠️ **Tech:** Java, interfaz gráfica
-- ✨ **Features:** Diseño visual atractivo, lógica de selección
-
-### 🎨 Sabiduría Ancestral
-**Plataforma web de bienestar (adaptable a móvil)**
-- 💻 **Tipo:** Web responsivo
-- 🛠️ **Tech:** HTML, CSS, JavaScript, diseño responsive
-- ✨ **Features:** E-commerce, blog, categorización de productos
+### 🔮 Tarot App
+- **Tech:** Java, Android SDK, Firebase
+👉 [Ver código](https://github.com/mochimidev/Tarot)
 
 ---
 
-## 🛠️ Stack Técnico
+## 💼 Disponibilidad
 
-### Lenguajes
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
-![Java](https://img.shields.io/badge/Java-ED8936?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5)
+✅ Contractor / Freelance  
+✅ Tiempo completo  
+✅ Remoto  
+✅ Proyectos con IA integrada  
 
-### Frameworks & Herramientas
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-00D084?style=flat&logo=flutter)
 
----
+## 🎯 Conecta conmigo
 
-## 🎯 Buscando oportunidades en:
-- 📱 Desarrollo Flutter (iOS/Android)
-- 🚀 Startups de tecnología
-- 💼 Roles de Desarrolladora Mobile Jr/Mid
+- 🔗 [LinkedIn](https://linkedin.com/in/charlotterodriguez001)
+**"Construyo apps inteligentes que escalan"** 🚀
 
----
-
-## 📍 Chile | 🔗 [LinkedIn](https://linkedin.com/in/charlotterodriguez001)
+  
 ## 🛠️ Tecnologías Principales
 
 <p align="left">
