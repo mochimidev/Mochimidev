@@ -1,47 +1,35 @@
-<h1 align="center">🌿 Charlotte Rodriguez | Ingeniera en Informática</h1>
 
-<p align="center">
-  <strong>Ingeniera en Informática | Full Stack Developer | Business Intelligence</strong><br>
-  <em>Desarrollando plataformas web, dashboards y soluciones digitales para organizaciones, emprendimientos y proyectos con impacto real.</em>
-</p>
+🌿 Charlotte Rodriguez
 
-## 🔍 Proyecto Destacado: Hostal Millaray
+Ingeniera en Informática | Desarrolladora Multiplataforma | Diseñadora UX/UI
 
-Lidero el desarrollo de la plataforma digital de **Hostal Millaray**, una solución orientada a modernizar la gestión operativa y el análisis de información de un establecimiento turístico.
+Desarrollo aplicaciones móviles, web y experiencias digitales que combinan tecnología, diseño y creatividad.
 
-- 🏨 Gestión de reservas, huéspedes y cabañas.
-- 📊 Dashboard ejecutivo y Business Intelligence.
-- 🎨 Diseño UX/UI responsive inspirado en experiencias boutique.
-- ☁️ Integración con Firebase para almacenamiento y sincronización de datos.
+Trabajo en proyectos para Android, iOS, Web y soluciones multiplataforma utilizando Flutter, Firebase y herramientas modernas de diseño y desarrollo.
 
-## 🌱 Proyecto Social: Escuela Libre Infancia Invaluable
+🛠 Tecnologías y herramientas
 
-Participo en el desarrollo de la identidad digital y presencia web de una iniciativa educativa enfocada en educación alternativa y aprendizaje basado en proyectos.
+📱 Android & iOS
+🌐 Desarrollo Web
+⚡ Flutter
+🔥 Firebase
+🎨 Figma
+🎮 Unity
+☁️ Cloud Services
+🗄️ Bases de Datos
+📊 Visualización de Información
 
-- 🖥️ Landing Page responsive y optimizada.
-- 🎨 UX/UI centrado en accesibilidad.
-- 📈 Estrategia digital para difusión de proyectos educativos.
+🚀 Áreas de interés
 
-## 🎓 Formación y Especialización
+Desarrollo de productos digitales
+Experiencias educativas interactivas
+Gamificación
+UX/UI
+Storytelling digital
+Videojuegos y aplicaciones creativas
 
-Perfil híbrido que combina desarrollo tecnológico, análisis de datos y gestión de proyectos.
+Actualmente participo en proyectos tecnológicos, educativos y turísticos, creando soluciones centradas en las personas y en la experiencia de usuario.
 
-- **Ingeniería en Informática** (2021 - 2024)
-- Arquitectura Cloud
-- Desarrollo Full Stack
-- Soporte Computacional
-- Inclusión y Diversidad
-- Gestión Ágil de Proyectos
-- Emprendimiento y Gestión Digital
-- Marketing Digital y Gestión Estratégica
-- Diseño y Programación Web
-
-## 🛠️ Enfoque Técnico
-
-- **Frontend & UX:** HTML5, CSS3, JavaScript, Firebase y Figma.
-- **Business Intelligence:** Dashboards, visualización de datos y métricas de gestión.
-- **Cloud:** Azure, AWS y servicios cloud.
-- **Impacto Social:** Finalista Go Innova 2024 y participación en proyectos educativos y comunitarios.
 
 ## 🛠️ Tecnologías Principales
 
