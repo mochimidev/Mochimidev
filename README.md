@@ -1,33 +1,34 @@
+# 🌿 Charlotte Rodriguez
 
-Ingeniera en Informática | Desarrolladora Multiplataforma | Diseñadora UX/UI
+### ✨ Creative Technologist • Flutter Developer • UX/UI Designer
 
-Desarrollo aplicaciones móviles, web y experiencias digitales que combinan tecnología, diseño y creatividad.
+Construyo aplicaciones, plataformas web y experiencias digitales donde la tecnología, el diseño y el storytelling se unen.
 
-Trabajo en proyectos para Android, iOS, Web y soluciones multiplataforma utilizando Flutter, Firebase y herramientas modernas de diseño y desarrollo.
+---
 
-🛠 Tecnologías y herramientas
+## 🚀 Proyectos
 
-📱 Android & iOS
-🌐 Desarrollo Web
-⚡ Flutter
-🔥 Firebase
-🎮 Unity
-☁️ Cloud Services
-🗄️ Bases de Datos
-📊 Visualización de Información
+🔮 Tarot Kawaii Dreams
+📚 Chile Fantástico
+🏨 Hostal Millaray
+🎮 Proyectos en Unity
 
-🚀 Áreas de interés
+---
 
-Desarrollo de productos digitales
-Experiencias educativas interactivas
-Gamificación
-UX/UI
-Storytelling digital
-Videojuegos y aplicaciones creativas
+## 🛠 Tech Stack
 
-Actualmente participo en proyectos tecnológicos, educativos y turísticos, creando soluciones centradas en las personas y en la experiencia de usuario.
+Flutter • Firebase • Unity • Figma
+Android • iOS • Web • Cloud
 
+---
 
+## 💡 Me interesa
+
+🎨 UX/UI
+📱 Apps móviles
+🎮 Videojuegos
+📚 Educación digital
+✨ Gamificación
 ## 🛠️ Tecnologías Principales
 
 <p align="left">
