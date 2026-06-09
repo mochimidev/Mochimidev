@@ -1,47 +1,68 @@
 # 👋 Hola, soy Charlotte
 
-## 💼 Desarrolladora Full Stack | Análisis de Datos | Cloud
+## 📱 Desarrolladora Mobile | Flutter, Dart, iOS & Android
 
-### 🔧 Tech Stack
-**Lenguajes:** Python | JavaScript | Dart | SQL | Java | HTML/CSS  
-**Frameworks:** Flutter | Django | React | Node.js  
-**Cloud & Data:** AWS | Firebase | Power BI | SQL  
-**Herramientas:** Git | GitHub | Docker | VS Code  
-
----
-
-## 📌 Proyectos Destacados
-
-### 🤖 [PostulaAI](https://github.com/mochimidev/PostulaAI)
-Analizador inteligente de CVs y ofertas laborales usando IA
-- **Tech:** JavaScript, IA, NLP
-- ⭐ Proyecto personal | En desarrollo
-
-### 📱 [EdumetricaV2](https://github.com/mochimidev/EdumetricaV2)
-App educativa de análisis de métricas
-- **Tech:** Dart, Flutter
-- 📊 Interfaz intuitiva para estudiantes
-
-### 🎓 [chile_fantastico](https://github.com/mochimidev/chile_fantastico)
-App orientada al aprendizaje interactivo
-- **Tech:** Dart, Flutter
-- 🎮 Gamificación de contenido educativo
-
-### 🌿 [Sabiduría Ancestral](https://github.com/mochimidev/Sabidur-a-Ancestral)
-Plataforma web de productos naturales y medicina ancestral
-- **Tech:** HTML, CSS, JavaScript
-- 🌱 E-commerce + Blog
+### 🎯 Especialización
+- **Desarrollo Móvil:** Flutter, Dart
+- **Plataformas:** iOS, Android, Web
+- **Herramientas:** FlutterFlow, Firebase, REST APIs
+- **Diseño:** UI/UX, Material Design, Figma
 
 ---
 
-## 🎯 Actualmente buscando
-- Oportunidades en **Full Stack Development**
-- Roles con **Python, SQL, Cloud**
-- Proyectos de **Análisis de Datos**
+## 📱 Proyectos Móviles Destacados
+
+### 🎓 EdumetricaV2
+**Aplicación educativa de análisis interactivo**
+- 📱 **Tipo:** Aplicación móvil multiplataforma
+- 🛠️ **Tech:** Dart, Flutter, Firebase
+- ✨ **Features:** Cálculo de métricas, gráficos interactivos, base de datos en tiempo real
+- 📊 Interfaz intuitiva para estudiantes y docentes
+
+### 🎮 chile_fantastico
+**App gamificada de aprendizaje**
+- 📱 **Tipo:** Aplicación educativa iOS/Android
+- 🛠️ **Tech:** Dart, Flutter
+- ✨ **Features:** Gamificación, progresión de contenido, interfaz amigable
+- 🎯 Enfoque en retención de usuarios
+
+### 🔮 Tarot
+**Aplicación interactiva de tarot**
+- 📱 **Tipo:** App móvil
+- 🛠️ **Tech:** Java, interfaz gráfica
+- ✨ **Features:** Diseño visual atractivo, lógica de selección
+
+### 🎨 Sabiduría Ancestral
+**Plataforma web de bienestar (adaptable a móvil)**
+- 💻 **Tipo:** Web responsivo
+- 🛠️ **Tech:** HTML, CSS, JavaScript, diseño responsive
+- ✨ **Features:** E-commerce, blog, categorización de productos
 
 ---
 
-## 📍 Chile | 📧 [LinkedIn](https://linkedin.com/in/charlotterodriguez001) | 🔗 [Portafolio](#)
+## 🛠️ Stack Técnico
+
+### Lenguajes
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
+![Java](https://img.shields.io/badge/Java-ED8936?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5)
+
+### Frameworks & Herramientas
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-00D084?style=flat&logo=flutter)
+
+---
+
+## 🎯 Buscando oportunidades en:
+- 📱 Desarrollo Flutter (iOS/Android)
+- 🚀 Startups de tecnología
+- 💼 Roles de Desarrolladora Mobile Jr/Mid
+
+---
+
+## 📍 Chile | 🔗 [LinkedIn](https://linkedin.com/in/charlotterodriguez001)
 ## 🛠️ Tecnologías Principales
 
 <p align="left">
