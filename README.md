@@ -1,33 +1,47 @@
-# 🌿 Charlotte Rodriguez
+# 👋 Hola, soy Charlotte
 
-### ✨ Creative Technologist • Flutter Developer • UX/UI Designer
+## 💼 Desarrolladora Full Stack | Análisis de Datos | Cloud
 
-Construyo aplicaciones, plataformas web y experiencias digitales donde la tecnología, el diseño y el storytelling se unen.
+### 🔧 Tech Stack
+**Lenguajes:** Python | JavaScript | Dart | SQL | Java | HTML/CSS  
+**Frameworks:** Flutter | Django | React | Node.js  
+**Cloud & Data:** AWS | Firebase | Power BI | SQL  
+**Herramientas:** Git | GitHub | Docker | VS Code  
 
+---
 
-## 🚀 Proyectos
+## 📌 Proyectos Destacados
 
-🔮 Tarot Kawaii Dreams
-📚 Chile Fantástico
-🏨 Hostal Millaray
-🎮 Proyectos en Unity
+### 🤖 [PostulaAI](https://github.com/mochimidev/PostulaAI)
+Analizador inteligente de CVs y ofertas laborales usando IA
+- **Tech:** JavaScript, IA, NLP
+- ⭐ Proyecto personal | En desarrollo
 
+### 📱 [EdumetricaV2](https://github.com/mochimidev/EdumetricaV2)
+App educativa de análisis de métricas
+- **Tech:** Dart, Flutter
+- 📊 Interfaz intuitiva para estudiantes
 
+### 🎓 [chile_fantastico](https://github.com/mochimidev/chile_fantastico)
+App orientada al aprendizaje interactivo
+- **Tech:** Dart, Flutter
+- 🎮 Gamificación de contenido educativo
 
-## 🛠 Tech Stack
+### 🌿 [Sabiduría Ancestral](https://github.com/mochimidev/Sabidur-a-Ancestral)
+Plataforma web de productos naturales y medicina ancestral
+- **Tech:** HTML, CSS, JavaScript
+- 🌱 E-commerce + Blog
 
-Flutter • Firebase • Unity • Figma
-Android • iOS • Web • Cloud
+---
 
+## 🎯 Actualmente buscando
+- Oportunidades en **Full Stack Development**
+- Roles con **Python, SQL, Cloud**
+- Proyectos de **Análisis de Datos**
 
+---
 
-## 💡 Me interesa
-
-🎨 UX/UI
-📱 Apps móviles
-🎮 Videojuegos
-📚 Educación digital
-✨ Gamificación
+## 📍 Chile | 📧 [LinkedIn](https://linkedin.com/in/charlotterodriguez001) | 🔗 [Portafolio](#)
 ## 🛠️ Tecnologías Principales
 
 <p align="left">
