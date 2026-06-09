@@ -1,6 +1,4 @@
 
-🌿 Charlotte Rodriguez
-
 Ingeniera en Informática | Desarrolladora Multiplataforma | Diseñadora UX/UI
 
 Desarrollo aplicaciones móviles, web y experiencias digitales que combinan tecnología, diseño y creatividad.
@@ -13,7 +11,6 @@ Trabajo en proyectos para Android, iOS, Web y soluciones multiplataforma utiliza
 🌐 Desarrollo Web
 ⚡ Flutter
 🔥 Firebase
-🎨 Figma
 🎮 Unity
 ☁️ Cloud Services
 🗄️ Bases de Datos
