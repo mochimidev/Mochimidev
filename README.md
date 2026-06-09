@@ -4,7 +4,6 @@
 
 Construyo aplicaciones, plataformas web y experiencias digitales donde la tecnología, el diseño y el storytelling se unen.
 
----
 
 ## 🚀 Proyectos
 
@@ -13,14 +12,14 @@ Construyo aplicaciones, plataformas web y experiencias digitales donde la tecnol
 🏨 Hostal Millaray
 🎮 Proyectos en Unity
 
----
+
 
 ## 🛠 Tech Stack
 
 Flutter • Firebase • Unity • Figma
 Android • iOS • Web • Cloud
 
----
+
 
 ## 💡 Me interesa
 
