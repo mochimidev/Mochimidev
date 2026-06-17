@@ -1,7 +1,8 @@
-![Banner]
-
-
 # 👋 Hola, soy Charlotte
+<p align="center">
+  <img src="./assets/
+" alt="Banner de Charlotte Rodriguez" width="100%" />
+</p>
 
 🚀 **Desarrolladora especializada en Flutter + IA Agents**
 
