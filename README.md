@@ -1,7 +1,7 @@
 # 👋 Hola, soy Charlotte
 <p align="center">
   <img src="./assets/
-" alt="Banner de Charlotte Rodriguez" width="100%" /><img width="1983" height="793" alt="github" src="https://github.com/user-attachments/assets/02aa9af6-0c5c-459f-8ff2-7c3c5f62d9ff" />
+" alt="" width="100%" /><img width="1983" height="793" alt="github" src="https://github.com/user-attachments/assets/02aa9af6-0c5c-459f-8ff2-7c3c5f62d9ff" />
 
 
 </p>
