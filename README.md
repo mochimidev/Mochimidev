@@ -1,10 +1,5 @@
 # 👋 Hola, soy Charlotte
-<p align="center">
-  <img src="./assets/
-" alt="" width="100%" /><img width="1983" height="793" alt="github" src="https://github.com/user-attachments/assets/02aa9af6-0c5c-459f-8ff2-7c3c5f62d9ff" />
 
-
-</p>
 
 🚀 **Desarrolladora especializada en Flutter + IA Agents**
 
@@ -43,16 +38,10 @@
 
 ## 💼 Disponibilidad
 
-✅ Contractor / Freelance  
-✅ Tiempo completo  
+✅ Contractor / Freelance 
 ✅ Remoto  
 ✅ Proyectos con IA integrada  
 
-
-## 🎯 Conecta conmigo
-
-- 🔗 [LinkedIn](https://linkedin.com/in/charlotterodriguez001)
-**"Construyo apps inteligentes que escalan"** 🚀
 
   
 ## 🛠️ Tecnologías Principales
