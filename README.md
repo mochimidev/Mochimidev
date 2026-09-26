@@ -1,5 +1,4 @@
-
-
+# 👋 Hola, soy Charlotte
 
 🚀 **Desarrolladora especializada en Flutter + IA Agents**
 
