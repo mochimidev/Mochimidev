@@ -1,4 +1,4 @@
-# 👋 Hola, soy Charlotte
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/86c4fd7a-6e24-4db3-a449-8438bd6ec79d" /># 👋 Hola, soy Charlotte
 
 
 🚀 **Desarrolladora especializada en Flutter + IA Agents**
